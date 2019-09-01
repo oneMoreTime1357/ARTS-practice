@@ -18,5 +18,5 @@ ARTS的初衷（左耳朵耗子）
 
 | 日期(周) | Algorithm | Review | Tips | Share |
 | --- | --- | --- | --- | --- |
-| #1 8.26-9.1|  |  |  | |
+| #1 8.26-9.1| [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [#1](/2019/2019-9-1-#1.md) |  | |
 |  |  |  |  | |
