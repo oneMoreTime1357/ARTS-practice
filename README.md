@@ -20,3 +20,4 @@ ARTS的初衷（左耳朵耗子）
 | --- | --- | --- | --- | --- |
 | #1 8.26-9.1| [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [#1](https://www.yuque.com/u224519/ptigw9/zpox1m)    |
 | #2/9.2-9.8 | [Divisor Game](https://leetcode-cn.com/problems/divisor-game/) |  [#2](https://www.yuque.com/u224519/ptigw9/pg89dd)  | |
+| #3/9.9-9.15 | [roman-to-integer](https://leetcode-cn.com/problems/roman-to-integer/) |  [#3](https://www.yuque.com/u224519/ptigw9/ogiu59)  | |
