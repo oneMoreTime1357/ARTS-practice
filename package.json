@@ -1,0 +1,22 @@
+{
+  "name": "arts-practice",
+  "version": "1.0.0",
+  "description": "arts practive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneMoreTime1357/ARTS-practice.git"
+  },
+  "keywords": [
+    "arts"
+  ],
+  "author": "dany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oneMoreTime1357/ARTS-practice/issues"
+  },
+  "homepage": "https://github.com/oneMoreTime1357/ARTS-practice#readme"
+}
